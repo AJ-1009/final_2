@@ -1110,7 +1110,7 @@ a {
         width: 90%;
         border: none;
         top: 43rem;
-        transition: 1s;
+        transition: 2s;
     }
     #first {
         display: block;
@@ -1125,6 +1125,7 @@ a {
         top: 100rem;
         width: 80%;
         left: 10%;
+         transition: 2s;
 
     }
     #num1{
