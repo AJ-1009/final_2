@@ -1003,7 +1003,7 @@ a {
         font-size: medium;
     }
     #comment2{
-        width: 70%;
+        width: 70%; 
         top: 68rem;
         left: 15%;
         font-size: medium;
@@ -1110,6 +1110,7 @@ a {
         width: 90%;
         border: none;
         top: 43rem;
+        transition: 1s;
     }
     #first {
         display: block;
