@@ -1388,7 +1388,7 @@ a {
         font-size: 5rem;
     }
     .side{
-        display: block;
+        display: inline-block;
         font-size: 2.8rem;
         width: 010%;
         height: 40px;
