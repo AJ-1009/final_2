@@ -1,0 +1,1275 @@
+html {
+    font-size: 62.50%;
+}
+* {
+    padding: 0%;
+    margin: 0%;
+}
+.media{
+    display: none;
+}
+.top{
+    display: none;
+}
+.burger{
+    display: none;
+}
+.box{
+    box-shadow: 15px 15px  90px 0 grey;
+}
+.side{
+    display: none;
+}
+.social_2{
+    display: none;
+}
+.logo_2{
+    display: none;
+}
+body {
+    font-family: 'Lato', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.hover_1:hover {
+    border: .2rem solid #39ff14;
+    border-radius: 2rem;
+    padding: .5rem 1.2rem;
+    transition: 1.5s;
+    color: white;
+    background-color: black;
+    box-shadow: 15px 15px  2000px 0 red;
+}
+.hover_2:hover{
+    color: #39ff14;
+
+}
+#logo_1 {
+    width : 100%;
+}
+.part1 {
+    position: absolute;
+    display: flex;
+    top: 4.1rem;
+    align-items: center;
+}
+#name_1 {
+    width: 11.6rem;
+    text-align: center;
+}
+
+.section_1 {
+    position: absolute;
+}
+
+#about {
+    color: white;
+    
+}
+
+#about_2 {
+    position: absolute;
+    background-color: black;
+    padding: 1.2rem 2rem;
+    color: white;
+  
+}
+
+#contact_1 {
+    position: absolute;
+    padding: 1.2rem 2rem;
+    background-color: black;
+    color: white;
+    top: 4.3rem;
+   
+}
+#divli {
+    color: white;
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+    
+}
+#work_1 {
+    top: 4.9rem;
+}
+
+#work_2 {
+    position: absolute;
+    line-height: 2.43rem;
+   
+}
+
+#about_1 {
+    top: 4.9rem;
+}
+
+#contact_2 {
+    position: absolute;
+    background-color: #2660FF;
+    padding: 1.2rem 2rem;
+    color: white;
+    
+}
+#get {
+    position: absolute;
+    top: 16.6rem;
+    height: 15.2rem;
+}
+
+#web {
+    position: absolute;
+    top: 35rem;
+    color: #81889E;
+}
+
+#photo_1 {
+    position: absolute;
+    top: 54.2rem;
+}
+
+.bold {
+    position: absolute;
+}
+
+.normal {
+    position: absolute;
+}
+
+#num1 {
+    top: 123.5rem;
+}
+
+#num2 {
+    top: 138rem;
+}
+
+#sen1 {
+    top: 132.4rem;
+}
+
+#sen2 {
+    top: 146.9rem;
+}
+
+#lorem1 {
+    position: absolute;
+    top: 120.6rem;
+}
+
+#work {
+    position: absolute;
+    left: 10.0rem;
+    font-size: 7.2rem;
+    line-height: 7.6rem;
+}
+
+#circle {
+    position: absolute;
+    width: 5rem;
+}
+
+#arrow {
+    position: absolute;
+     width: 2.9rem;
+}
+
+#third {
+    position: absolute;
+}
+
+#sec {
+    position: absolute;
+}
+
+#forth {
+    position: absolute;
+}
+
+#fifth {
+    position: absolute;
+    padding-top: 5.1rem;
+}
+
+#we {
+    position: absolute;
+}
+
+#wellness {
+    position: absolute;
+}
+
+#medora {
+    position: absolute;
+}
+#carnival {
+    position: absolute;
+}
+#part8 {
+    position: absolute;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+#review {
+    position: absolute;
+}
+#dp_1 {
+    position: absolute;
+    top: 21.2rem;
+    width: 5.7rem;
+}
+#dp_2 {
+    position: absolute;
+    top: 52.8rem;
+    width: 5.7rem;
+}
+#name1 {
+    position: absolute;
+    top: 21.4rem;
+    font-size: 2.0rem;
+}
+#rating1 {
+    position: absolute;
+    filter: invert(100%);
+    top: 24.8rem;
+    width: 1.9rem;
+    display: flex;
+} 
+#rating2 {
+    position: absolute;
+    filter: invert(100%);
+    top: 56.4rem;
+    width: 1.9rem;
+    display: flex;
+
+}
+#name2 {
+    position: absolute;
+    font-size: 2.0rem;
+}
+#comment1 {
+    position: absolute;
+    top: 29.2rem;
+    color: #81889E;
+}
+#comment2 {
+    position: absolute;
+    color: #81889E;
+}
+#faqs {
+    position: absolute;
+}
+.ques {
+    position: absolute;
+    left: 10.0rem;
+    width: 67.3rem;
+    height: 3.9rem;
+    font-size: 2.6rem;
+    font-weight: 400;
+    line-height: 3.9rem;
+}
+.ans {
+    position: absolute;
+    left: 10.0rem;
+    height: 15.0rem;
+    width: 64.8rem;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 3.0rem;
+}
+#ques1 {
+    top: 422.4rem;
+}
+#ques2 {
+    top: 449.7rem;
+}
+#ans1 {
+    top: 429.1rem;
+    color: #81889E;
+}
+#ans2 {
+    top: 456.4rem;
+    color: #81889E;
+}
+#part10 {
+    position: absolute;
+    height: 35.7rem;
+    width: 100%;
+    background-color: #F1F4FA;
+}
+#logo2 {
+    position: absolute;
+    top: 9.2rem;
+    width: 4rem;
+    left: 10.0rem;
+}
+#name_2 {
+    position: absolute;
+    top: 10rem;
+    left: 14.978rem;
+}
+#about_3 {
+    color: #81889E;
+    position: absolute;
+    top: 8.0rem;
+}
+#works_3 {
+    color: #81889E;
+    position: absolute;
+    top: 12.2rem;
+}
+#contact_3 {
+    color: #81889E;
+    position: absolute;
+    top: 16.4rem;
+}
+.logo_1 {
+    position: absolute;
+    left: 89.667rem;
+}
+
+.social_1 {
+    position: absolute;
+    color: #81889E;
+}
+
+#privacy {
+    position: absolute;
+    top: 30.2rem;
+}
+#terms {
+    position: absolute;
+    top: 30.2rem;
+}
+#rights {
+    position: absolute;
+    top: 30.25rem;
+    color: #81889E;
+} 
+@media only screen and (min-width:1101px){
+    .part1{
+        left: 10%;
+    }
+    #logo_1{
+        width: 1000%;
+    }
+    #name_1{
+        font-size: calc(2.5rem + 2vw);
+        margin-left: 15%;
+    }
+    #get{
+        font-size: calc(3rem +  4vw);
+        width: 70%;
+        left: 10%;
+    }
+    #work_1{
+        font-size: calc(2rem + 1vw);
+        left: 60%;
+    }
+    #contact_1{
+        font-size: calc(2rem + 1vw);
+        left: 80%;
+    }
+    #about_1{
+        font-size: calc(2rem + 1vw);
+        left: 70%;
+    }
+    #contact_2{
+        left: 10%;
+        font-size: calc(2rem + 1vw);
+        top: 44rem;
+    }
+    #work_2{
+        left: 25%;
+        font-size: calc(2rem + 1vw);
+        top: 45.8rem;
+    }
+    #web{
+        font-size: calc(3rem + 1vw);
+        width: 70%;
+        top: 32rem;
+        left: 10%;
+        height: 6rem;
+    }
+    #first{
+        width: 100%;
+        height: 1000px;
+    }
+    #photo_1{
+        width: 80%;
+        height: 500px;
+        left: 10%;
+    }
+    #lorem1{
+        left: 10%;
+        width: 40%;
+        font-size: calc(2rem + 1vw);
+        top: 165rem;
+    }
+    .bold{
+        font-size: calc(3rem + 3.5vw);
+        left: 70%;
+    }
+    #num1{
+        top: 165rem;
+    }
+    #num2{
+        top: 186rem;
+    }
+    .normal{
+        left: 70%;
+        font-size: calc(2rem + 1vw);
+    }
+    #sen1{
+        top: 174rem;
+    }
+    #sen2{
+        top: 195rem;
+    }
+    #about_2{
+        left: 10%;
+        top: 205rem;
+        font-size: calc(2rem + 1.7vw);
+    }
+    #work{
+        top: 220rem;
+
+    }
+    #arrow{
+        top: 224.5rem;
+        width: calc(3rem + 2vw);
+        left: 41rem;
+    }
+    #circle{
+        width: calc(3rem + 3vw);
+        top: 223rem;
+        left: 40rem;
+    }
+    #sec{
+        top: 240rem;
+        left: 5%;
+        height: 800px;
+        width: 37%;
+    }
+    #we{
+        left: 5%;
+        top: 322rem;
+        font-size: calc(1rem + 2vw);
+    }
+    #third{
+        top: 240rem;
+        left: 47%;
+        width: 48%;
+        height: 800px;
+    }
+    #wellness{
+        left: 47%;
+        font-size: calc(1rem + 2vw);
+        top: 322rem;
+    }
+    #forth{
+        top: 330rem;
+        left: 5%;
+        height: 800px;
+        width: 48%;
+    }
+    #medora{
+        left: 5%;
+        font-size: calc(1rem + 2vw);
+        top: 412rem;
+    }
+    #fifth{
+        top: 325rem;
+        width: 37%;
+        height: 800px;
+        left: 58%;
+    }
+    #carnival{
+        top: 412rem; 
+        font-size: calc(1rem + 2vw);
+        left: 58%;
+    }
+
+    #part8{
+        top: 424rem;
+        height: 130rem;
+    }
+    #review{
+        font-size: calc(3rem + 5vw);
+    }
+    #dp_1{
+        left: 15%;
+        width:6%;
+    }
+    #name1{
+        left: 22%;
+        font-size: calc(2rem + 1vw);
+    }
+    #rating1{
+        left: 22%;
+        width: 4%;
+    }
+    #comment1{
+        left: 15%;
+        width: 70%;
+        top: calc(30rem + 2vw);
+        font-size: calc(2rem + 1vw);
+    }
+    #dp_2{
+        top: 75rem;
+        left: 15%;
+        width: 6%;
+    }
+    #name2{
+        left: 22%;
+        top: 75rem;
+        font-size: calc(2rem + 1vw);
+    }
+    #rating2{
+        top: 78rem;
+        left: 22%;
+        width: 4%;
+    }
+    #comment2{
+        left: 15%;
+        width: 70%;
+        top: calc(83rem + 2vw);
+        font-size: calc(2rem + 1vw);
+    }
+    #faqs{
+        top: 570rem;
+        font-size: calc(4rem + 6vw);
+        left: 10%;
+
+    }
+    .ques{
+        left: 10%;
+        width: 80%;
+        font-size: calc(2rem + 2vw);
+    }
+    .ans{
+        width: 80%;
+        font-size: calc(3rem + 1vw);
+        left: 10%;
+    }
+    #ques1{
+        top: 590rem;
+    }
+    #ans1{
+        top: 600rem;
+       
+    }
+    #ques2{
+        top: 635rem;
+    }
+    #ans2{
+        top: 645rem;
+    }
+    #part10{
+        top: 690rem;
+    }
+    #logo2{
+        width: 5%;
+        left:10%;
+    }
+    #name_2{
+        top: 10.65rem;
+        font-size:calc(2rem + 1.5vw) ;
+        left: 16%;
+    }
+    #works_3{
+        font-size: calc(1rem + 1vw);
+        left: 38%;
+        top: 10.65rem;
+    }
+    #about_3{
+        font-size: calc(1rem + 1vw);
+        left: 48%;
+        top: 10.65rem;
+    }
+    #contact_3{
+        font-size: calc(1rem + 1vw);
+        left: 58%;
+        top: 10.65rem;
+    }
+    .logo_1{
+        left: 80%;
+        width: 2%;
+    }
+    #insta_1{
+        top: 10rem;
+    }
+    #face_1{
+        top: 20rem;
+    }
+    #twitt_1{
+        top: 30rem;
+    }
+    .social_1{
+        left: 83%;
+        font-size: calc(1rem + 1vw);
+    }
+    #instagram_1{
+        top: 10rem;
+    }
+    #facebook_1{
+        top: 20rem;
+    }
+    #twitter_1{
+        top: 30rem;
+    }
+    #rights{
+        left: 5%;
+        font-size: calc(1rem + 1vw);
+    }
+    #privacy{
+        font-size: calc(1rem + 1vw);
+        top: 20rem;
+        left: 45%;
+    }
+    #terms{
+        font-size: calc(1rem + 1vw);
+        top: 30rem;
+        left: 43%;
+    }
+}
+@media only screen and (max-width:1100px){
+    html {
+        font-size: 50%;
+    }
+    .part1{
+        left: 10%;
+    }
+    #name_1{
+        font-size: calc(1rem + 2vw);
+    }
+    #first{
+        width: 100%;
+        height: 500px;
+    }
+    #photo_1{
+        width: 80%;
+        height: 500px;
+        left: 10%;
+    }
+    #about_1{
+        left: 67%;
+        font-size: calc(2rem + 1vw);
+    }
+    #work_1{
+        left: 55%;
+        font-size: calc(2rem + 1vw);
+       
+    }
+    #contact_1{
+        left:80%;
+        font-size: calc(2rem + 1vw);
+       
+    }
+    #get{
+        left: 10%;
+        font-size: calc(2rem +  4vw);
+        top: 20rem;
+    }
+    #web{
+        left: 10%;
+        top: 30rem;
+        font-size: calc(2rem + 1vw);
+        width: 50%;
+    }
+    #lorem1{
+        left: 10%;
+        font-size: calc(1.5rem + 1.3vw);
+        width: 50%;
+        top: 130rem;
+    }
+    #con{
+        font-size: calc(2rem + 1vw);
+    }
+    #contact_2{
+        left: 10%;
+        top: 40rem;
+    }
+    #work_2{
+        font-size: calc(2rem + 1vw);
+        top: 43rem;
+        left: 30%;
+
+    }
+    #about_2{
+        top: 168rem;
+        left: 10%;
+        font-size: calc(2rem  + 1vw);
+    }
+    .bold{
+        left: 77%;
+        font-size: calc(4rem + 2.4vw);
+    }
+    #num1{
+        top: 130.4rem;
+    }
+    #sen1{
+        top: 139rem;
+    }
+    #num2{
+        top: 145rem;
+    }
+    #sen2{
+        top: 153.4rem;
+    }
+    .normal{
+        left: 77%;
+        font-size: calc(1rem + .5vw);
+    }
+    #work{
+        top: 190rem;
+    }
+    #circle{
+        top: 192rem;
+        left: 37rem;
+    }
+    #arrow{
+        top: 193.2rem;
+        left: 38rem;
+    }
+    #sec{
+        left: 5%;
+        width: 38%;
+        top: 210rem;
+        height: 373px;
+    }
+    #we{
+        left: 5%;
+        top: 257.3rem;
+        font-size: calc(1rem + 1.7vw);
+    }
+    #wellness{
+        left: 48%;
+        font-size: calc(1rem + 1.7vw);
+        top: 257.3rem;
+    }
+    #medora{
+        left: 5%;
+        font-size: calc(1rem + 1.7vw);
+        top: 288rem;
+    }
+    #carnival{
+        left: 57%;
+        top: 288rem;
+        font-size: calc(1rem + 1.7vw);
+    }
+    #third{
+        left: 48%;
+        width: 47% ;
+        height: 373px;
+        top: 210rem;
+    }
+    #forth{
+        top: 275rem;
+        left: 5%;
+        width: 47% ;
+        height: 373px;
+    }
+    #fifth{
+        top: 270rem;
+        width: 38%;
+        height: 373px;
+        left: 57%;
+    }
+    #part8{
+        height: 98rem;
+        top: 345rem;
+    }
+    #review{
+        font-size: calc(3rem  + 3vw);
+        top: 4rem;
+        left: 5%;
+    }
+    #dp_1{
+        left: 15%;
+
+    }
+    #dp_2{
+        left: 15%;
+        top: 60rem;
+    }
+    #name1{
+        left: 22%;
+    }
+    #name2{
+        left: 22%;
+        top: 60rem;
+    }
+    #rating1{
+        left: 22%;
+    }
+    #rating2{
+        left: 22%;
+        top: 63.5rem;
+    }
+    #comment1{
+        width: 70%;
+        left: 15%;
+        font-size: medium;
+    }
+    #comment2{
+        width: 70%;
+        top: 68rem;
+        left: 15%;
+        font-size: medium;
+    }
+    #faqs{
+        font-size: calc(3rem + 3vw);
+        left: 8%;
+        top: 460rem;
+    }
+    .ques{
+        font-size: calc(1rem + 2vw);
+        left: 10%;
+        width: 70%;
+    }
+    #ques1{
+        top: 476rem;
+    }
+    #ques2{
+        top: 510rem;
+    }
+    .ans{
+        width: 70%;
+        left: 10%;
+        font-size: medium;
+    }
+    #ans1{
+        top: 486.8rem ;
+    }
+    #ans2{
+        top: 522rem;
+    }
+    #part10{
+        top: 550rem;
+    }
+    #name_2{
+        font-size: calc(1.5rem + 2vw);
+    }
+    .logo_1{
+        left: 65%;
+    }.social_1{
+        left: 70%;
+        font-size: calc(1.5rem + 1vw);
+    }
+    #insta_1 {
+        top: 8.267rem;
+    }
+    #face_1 {
+        top: 12.47rem;
+    }
+    #twitt_1 {
+        top: 16.833rem;
+    }
+    #instagram_1 {
+        top: 8.0rem;
+    }
+    #facebook_1 {
+        top: 12.2rem;
+    }
+    #twitter_1 {
+        top: 16.4rem;
+    }
+    #works_3{
+        left: 50%;
+        font-size: calc(1.5rem + 1vw);
+    }
+    #contact_3{
+        left: 50%;
+        font-size: calc(1.5rem + 1vw);
+    }
+    #about_3{
+        font-size: calc(1.5rem + 1vw);
+        left: 50%;
+    }
+    #terms{
+        font-size: calc(1.5rem + 1vw);
+        left: 70%;
+    }
+    #privacy{
+        font-size: calc(1.5rem + 1vw);
+        left: 50%;
+    }
+    #rights{
+        left: 5%;
+        font-size: calc(1.5rem + 1vw);
+    }
+}
+
+@media only screen and (max-width:698px){
+  
+    html {
+        font-size: 50%;
+    }
+    #work_1{
+        display: none;
+    }
+    #logo_1{
+        margin-top: 0rem;
+        width: 25%;
+    }
+    #name_1{
+        margin-top: .9rem;
+        font-size: calc(2rem + 2vw);
+    }
+    #contact_1{
+        display: none;
+    } 
+    #about_1{
+        display: none;
+    }
+    .part1 {
+        left: 10%;
+        top: 2rem;
+    }
+    #get {
+        left: 10%;
+        width: 80%; 
+        top: 12rem;
+        height: 23rem;
+        font-size: calc(4rem + 3.5vw) ;
+        transition: 1s;
+    }
+
+    #web {
+        top: 30rem;
+        left: 10%;
+        font-size: calc(1.5rem + 2vw);
+        width: 80%;
+        transition: 1s;
+        color: black;
+    }
+    #photo_1{
+        left: 10%;
+        width: 90%;
+        border: none;
+        top: 40rem;
+        transition: 2s;
+    }
+    #first {
+        display: block;
+        width: 90%;
+        height: 30rem;
+        overflow-y: scroll;
+    }
+    #lorem1 {
+        height: 25rem;
+        font-size: calc(1.4rem + 1.5vw);
+        overflow-y: scroll;
+        top: 80rem;
+        width: 80%;
+        left: 10%;
+        transition: 2s;
+
+    }
+    #num1{
+        top: 109rem;
+        left: 10%;
+        font-size: calc(4rem + 2.4vw);
+    }
+    #sen1{
+        top: 114.5rem;
+        width: calc(20rem + 10vw);
+        left: 10%;
+        font-size: calc(1rem + 2vw);
+    }
+    #num2{
+        top: 122rem;
+        left: 10% ;
+        font-size: calc(4rem + 2.4vw);
+    }
+    #sen2{
+        top: 127.5rem;
+        left: 10%;
+        font-size: calc(1rem + 2vw);
+    }
+    #contact_2{
+        left: 70%;
+        font-size: calc(1rem + 1.6vw);
+        top: 110rem;
+        color: black;
+        background-color: white;
+        padding: 0;
+    }
+    #work_2{
+        top: 127rem;
+        left: 70%;
+        text-align: right;
+        color: black;
+        font-size: calc(1rem + 2vw);
+    }
+    #about_2{
+        font-size: calc(1rem + 2vw);
+        width: 11rem;
+        top: 118rem;
+        left: 70% ;
+        color: black;
+        background-color: white;
+        padding: 0%;
+    }
+    #work {
+        top: 141rem;
+        left: 10%;
+        font-size: 4rem ;
+    }
+    #circle {
+        left: 17.5rem;
+        top: 143rem;
+    }
+    #arrow {
+        top: 144rem;
+        left: 18.7rem;
+    }
+    #sec {
+        top: 163rem;
+        left: 5%;
+        width: 90%;
+        height: 40rem;
+        overflow-y: scroll;
+    }
+    #we{
+        left: 5%;
+        margin: auto;
+        top: 204rem;
+    }
+    #third {
+        left: 5%;
+        width: 90%;
+        top: 218rem;
+        height: 40rem;
+        overflow-y: scroll;
+    }
+    #wellness{
+        top: 259.6rem;
+        left: 5%;
+    }
+    #forth {
+        left: 5%;
+        width: 90%;
+        top: 275rem;
+        height: 40rem;
+        overflow-y: scroll;
+    }
+    #medora{
+        left: 5%; 
+        top: 315.5rem;
+    }
+    #fifth {
+        left: 5%;
+        width: 90%;
+        top: 332rem;
+        height: 40rem;
+        overflow-y: scroll;
+    }
+    #carnival{
+        left: 5%;
+        top: 381rem;
+    }
+    #part8{
+        top: 400rem;
+        height: 100rem;
+        width: 100%;
+    }
+    #review {
+        left:2rem;
+        top: 3rem;
+        font-size: 4rem;  
+        width: 70%;
+    }
+
+    #dp_1 {
+        left: 10%;
+        top: 15rem;
+        width:3rem ;
+    }
+
+    #dp_2 {
+        left: 10%;
+        top: 58rem;
+        width:3rem ;
+    }
+
+    #name1 {
+        left: 18%;
+        top: 15rem;
+        font-size: 1.4rem;
+    }
+
+    #name2 {
+        left: 18%;
+        top: 58rem;
+        font-size: 1.4rem;
+    }
+
+    #rating1 {
+        left: 18%;
+        top: 17rem;
+    }
+    .star{
+        width: 2rem;
+    }
+    #rating2 {
+        left: 18%;
+        top: 60rem;
+    }
+
+    #comment1 {
+        left: 10%;
+        width: 80%;
+        height: 30rem;
+        top: 22rem;
+        font-size: calc(1rem + 1.5vw) ;
+        overflow-y: scroll;
+    }
+
+    #comment2 {
+        left: 10%;
+        width: 80%;
+        height: 30rem;
+        top: 65rem;
+        font-size: calc(1rem + 1.5vw) ;
+        overflow-y: scroll;
+    }
+    #faqs {
+        left: 5%;
+        top: 517rem;
+        width: 80%;
+        font-size: calc(2.5rem + 3.5vw);
+    }
+    .ques {
+        left: 3rem;
+        width: 80%;
+        border: none;
+        font-size: calc(1rem + 2vw);
+        height: 10rem;
+        overflow-y: scroll;
+    }
+    #ques1{
+        top: 532rem;
+    }
+    #ques2{
+        top: 572rem;
+    }
+    .ans {
+        left: 10%;
+        width: 80%;
+        height: 25rem;
+        overflow: scroll;
+    }
+    #ans1{
+        top: 543rem;
+    }
+    #ans2{
+        top: 583rem;
+    }
+    #part10{
+        width: 100%;
+        top: 620rem;
+    }
+    #logo2 {
+        left: 1rem;
+    }
+
+    #name_2 {
+        left: 6rem;
+        font-size: 2.5rem;
+    }
+    #about_3{
+        top: 11rem;
+        left: 80%;
+    }
+    #works_3{
+        top: 17rem; ;
+        left: 80%;
+    }
+    #contact_3{
+        top: 23rem; 
+        left: 80%;
+    }
+    .logo_1 {
+        display: none;
+    }
+
+    .social_1 {
+       display: none;
+    }
+    #terms {
+        top: 24rem;
+        left: 5%;
+        position: absolute;
+        font-size: 2rem;
+    }
+    #privacy {
+        font-size: 2rem;
+        position: absolute;
+        top: 18rem;
+        left: 5%;
+    }
+    #rights{
+        left: 5%;
+        font-size: 2rem;
+        top: 30rem;
+    }
+    .burger{
+        display: inline-block;
+        position: absolute;
+        color: black;
+        top: 3rem;
+        right: 5%;
+        font-size: 3rem;
+    }
+    .side{
+        display: block;
+        font-size: 2.8rem;
+        height: 6rem;
+        color: white;
+        align-items: center;
+    }
+    .sidenav{
+        margin-top: 8rem;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        width: 0;
+        transition: 1s;
+        background-color: #000;
+    }
+    .close{
+       margin-right: 0;
+       color: white;
+       justify-content: right;
+    }
+    .logo_2{
+        filter: invert(100);
+    }
+    .top{
+        display: block;
+        font-size: 1.5rem;
+        color: white;
+        align-items: center;
+    }
+    .topnav{
+        position: absolute;
+        justify-content: space-between;
+        top:37.7rem;
+        width: 45%;
+        align-items: center;
+        left: 0%;
+        display: flex;
+        flex-direction: column;
+        height: 0;
+        transition: 1s;
+        background-color: #000;
+    }
+    #open{
+        color: white;
+        font-size: 2rem;
+    }
+}
