@@ -1227,7 +1227,7 @@ a {
         font-size: 2.8rem;
         height: 50px;
         color: white;
-        padding: 3rem 0 0 0 ;
+        padding-top: 3rem ;
         align-items: center;
     }
     .sidenav{
