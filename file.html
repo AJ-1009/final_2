@@ -151,7 +151,7 @@
         </div>
     </header>
     <div class="sidenav" id="sidebar">
-        <a href="javascript:void(0)" class="close side" onclick="closeNav()">&#x274C;</a>
+        <a href="javascript:void(0)" class="close side" id='close' onclick="closeNav()">&#x274C;</a>
         <a href="#" id="work_4"  class="side hover_2">Work</a>
         <a href="#" id="contact_4" class="side hover_2">Contact</a>
         <a href="#" id="about_4" class="side hover_2">About us</a>
@@ -197,7 +197,7 @@
             document.getElementById('ques2').style.top='565rem';
             document.getElementById('ans2').style.top='576rem';
             document.getElementById('part10').style.top='608rem';
-           
+           document.getElementById('close').style.color='white';
         }
         const closeNav = () => {
             document.getElementById('sidebar').style.width = "0";
